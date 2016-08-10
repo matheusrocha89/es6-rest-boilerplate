@@ -7,6 +7,10 @@
     "dev": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matheusrocha89/es6-rest-boilerplate.git"
+  },
   "author": "Matheus Rocha <matheusrocha89>",
   "license": "MIT",
   "dependencies": {
