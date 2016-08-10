@@ -1,0 +1,10 @@
+{
+  "critics": {
+    "lint": {
+      "engine": "eslint"
+    }
+  },
+  "dependencies": {
+    "unused-ignores": ["babel-cli"]
+  }
+}
