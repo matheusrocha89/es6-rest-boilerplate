@@ -1,6 +1,5 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-import '../database';
 
 const app = express();
 
