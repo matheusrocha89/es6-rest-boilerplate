@@ -23,6 +23,16 @@ Development mode: `npm run dev`
 
 Production mode: `npm start`
 
+After configuring your database env variables remove the comments
+on the `./index.js` file:
+
+```
+// Remove the comment when you configured the database env variables
+// import dbConnect from './src/database';
+
+// dbConnect();
+```
+
 ## Environment variables:
 The project uses enviroment variables create some configurations.
 
