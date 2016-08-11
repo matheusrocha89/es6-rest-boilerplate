@@ -1,4 +1,4 @@
-# ES6 Rest Boilerplate [WIP]
+# ES6 Rest Boilerplate
 [![bitHound Overall Score](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate/badges/score.svg)](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate)
 [![bitHound Dependencies](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate/badges/dependencies.svg)](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate/master/dependencies/npm)
 [![bitHound Dev Dependencies](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate/badges/devDependencies.svg)](https://www.bithound.io/github/matheusrocha89/es6-rest-boilerplate/master/dependencies/npm)
