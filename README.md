@@ -49,3 +49,7 @@ Below you see the variables and the default values of it.
   // Database name to connect
   DB_NAME = 'dbname'
 ```
+
+## License
+
+MIT
