@@ -7,16 +7,25 @@
 
 Boilerplate to create Rest Apis with Mongoose, Express and ES6.
 
+Project uses babel to use the ES6 features, the Mongoose ORM to
+make it easier to manipulate data with the MongoDB and the Express
+web framework to create the api.
+
+To keep the code with a unique code style the boilerplate includes
+Eslint with the `airbnb-base` code style.
+
 ## Instalation
  - Clone the project
  - `npm install`
 
 ## Run the project
 Development mode: `npm run dev`
+
 Production mode: `npm start`
 
 ## Environment variables:
 The project uses enviroment variables create some configurations.
+
 Below you see the variables and the default values of it.
 ```
   // App port
