@@ -15,7 +15,7 @@ To keep the code with a unique code style the boilerplate includes
 Eslint with the `airbnb-base` code style.
 
 ## Instalation
- - Clone the project
+ - `git clone git@github.com:matheusrocha89/es6-rest-boilerplate.git`
  - `npm install`
 
 ## Run the project
