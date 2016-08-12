@@ -68,6 +68,7 @@ to generate the documentation of your api. To generate the doc just run:
 `npm run doc`
 
 The documentation files will be generated on folder `./apidoc`.
+
 For more information about the doc generation read the apidocjs documentation.
 
 ## License
