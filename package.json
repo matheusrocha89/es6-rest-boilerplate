@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "babel-node index",
+    "doc": "apidoc -i src/api -o ./apidoc",
     "lint": "eslint --ext .js index.js src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
