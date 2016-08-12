@@ -60,6 +60,15 @@ Below you see the variables and the default values of it.
   DB_NAME = 'dbname'
 ```
 
+## Generate your API Documentation
+
+This boilerplate uses the apidoc ([apidocjs](http://apidocjs.com/))
+to generate the documentation of your api. To generate the doc just run
+
+`npm run doc`
+
+For more information about the doc generation read the apidocjs documentation.
+
 ## License
 
 MIT
