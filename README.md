@@ -63,10 +63,11 @@ Below you see the variables and the default values of it.
 ## Generate your API Documentation
 
 This boilerplate uses the apidoc ([apidocjs](http://apidocjs.com/))
-to generate the documentation of your api. To generate the doc just run
+to generate the documentation of your api. To generate the doc just run:
 
 `npm run doc`
 
+The documentation files will be generated on folder `./apidoc`.
 For more information about the doc generation read the apidocjs documentation.
 
 ## License
