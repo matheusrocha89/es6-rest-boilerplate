@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.2.0](https://github.com/matheusrocha89/es6-rest-boilerplate/tree/v0.2.0) (2016-08-12)
+[Full Changelog](https://github.com/matheusrocha89/es6-rest-boilerplate/compare/v0.1.0...v0.2.0)
+
+**Merged pull requests:**
+
+- Adding apidocs [\#1](https://github.com/matheusrocha89/es6-rest-boilerplate/pull/1) ([matheusrocha89](https://github.com/matheusrocha89))
+
 ## [v0.1.0](https://github.com/matheusrocha89/es6-rest-boilerplate/tree/v0.1.0) (2016-08-10)
 
 
